@@ -1,0 +1,272 @@
+SN,Categories,Count,Attraction,Competition
+252,ATM,1,1,1
+253,Garden Center,1,1,1
+254,Beer Store,1,1,1
+255,Used Bookstore,1,1,1
+256,Piano Bar,1,1,1
+257,Garden,1,1,1
+258,River,1,1,1
+259,Other Repair Shop,1,1,1
+260,Boat or Ferry,1,1,1
+262,Science Museum,1,1,1
+263,Shop & Service,1,1,1
+169,Hookah Bar,2,1,1
+170,Water Park,2,1,1
+171,Cupcake Shop,2,1,1
+173,Rental Service,2,1,1
+174,General Entertainment,2,1,1
+175,Luggage Store,2,1,1
+176,Print Shop,2,1,1
+177,Bagel Shop,2,1,1
+179,Beach,2,1,1
+181,Neighborhood,2,1,1
+182,Plaza,2,1,1
+183,Fabric Shop,2,1,1
+184,Optical Shop,2,1,1
+185,Video Store,2,1,1
+186,Candy Store,2,1,1
+187,Cheese Shop,2,1,1
+188,Art Gallery,2,1,1
+191,Comedy Club,2,1,1
+192,Gym Pool,1,1,1
+193,Martial Arts Dojo,1,1,1
+194,Gun Shop,1,1,1
+196,Road,1,1,1
+197,Roof Deck,1,1,1
+198,Bridal Shop,1,1,1
+200,Student Center,1,1,1
+202,Football Stadium,1,1,1
+203,Lawyer,1,1,1
+204,Medical Center,1,1,1
+205,Bistro,1,1,1
+206,Carpet Store,1,1,1
+207,Shipping Store,1,1,1
+208,Tattoo Parlor,1,1,1
+209,Outdoor Supply Store,1,1,1
+211,Poke Place,1,1,1
+213,Mattress Store,1,1,1
+214,Advertising Agency,1,1,1
+215,Pier,1,1,1
+217,Donut Shop,1,1,1
+218,College Gym,1,1,1
+219,Paintball Field,1,1,1
+220,Dry Cleaner,1,1,1
+221,Organic Grocery,1,1,1
+222,Gay Bar,1,1,1
+223,Island,1,1,1
+224,Irish Pub,1,1,1
+225,Baseball Stadium,1,1,1
+227,Travel & Transport,1,1,1
+228,Professional & Other Places,1,1,1
+229,Elementary School,1,1,1
+230,Country Dance Club,1,1,1
+231,IT Services,1,1,1
+232,Skate Park,1,1,1
+235,Hot Dog Joint,1,1,1
+236,Historic Site,1,1,1
+237,Event Service,1,1,1
+238,Outdoors & Recreation,1,1,1
+239,College Classroom,1,1,1
+240,Rock Club,1,1,1
+241,Costume Shop,1,1,1
+243,Bus Stop,1,1,1
+245,Fish Market,1,1,1
+247,Accessories Store,1,1,1
+248,Other Great Outdoors,1,1,1
+249,Racetrack,1,1,1
+250,Pool Hall,1,1,1
+251,Rest Area,1,1,1
+34,Furniture / Home Store,20,2,0
+9,Pharmacy,65,2,0
+44,Electronics Store,15,2,0
+46,Department Store,14,2,0
+48,Bookstore,14,2,0
+49,Arts & Crafts Store,13,2,0
+16,Sushi Restaurant,39,3,8
+18,Italian Restaurant,34,3,8
+24,Japanese Restaurant,29,3,8
+27,Asian Restaurant,27,3,8
+29,Mexican Restaurant,25,3,8
+37,Indian Restaurant,19,3,8
+41,Brewery,18,3,1
+43,Seafood Restaurant,17,3,7
+45,Greek Restaurant,14,3,7
+47,Korean Restaurant,14,3,7
+55,Middle Eastern Restaurant,12,3,8
+72,French Restaurant,9,3,8
+76,Mediterranean Restaurant,8,3,8
+81,Thai Restaurant,8,3,8
+82,Falafel Restaurant,8,3,8
+128,Vegetarian / Vegan Restaurant,3,3,8
+132,New American Restaurant,3,3,8
+136,Filipino Restaurant,3,3,7
+167,Eastern European Restaurant,2,3,7
+172,Tapas Restaurant,2,3,5
+178,Dim Sum Restaurant,2,3,5
+180,Moroccan Restaurant,2,3,4
+189,Ramen Restaurant,2,3,7
+190,Southern / Soul Food Restaurant,2,3,7
+195,Swiss Restaurant,1,3,7
+199,Indonesian Restaurant,1,3,2
+201,Peruvian Restaurant,1,3,3
+210,Scandinavian Restaurant,1,3,7
+212,African Restaurant,1,3,4
+216,Portuguese Restaurant,1,3,5
+226,Empanada Restaurant,1,3,6
+233,Latin American Restaurant,1,3,7
+234,Argentinian Restaurant,1,3,7
+242,Hong Kong Restaurant,1,3,7
+244,Belgian Restaurant,1,3,7
+246,Gluten-free Restaurant,1,3,4
+261,Shabu-Shabu Restaurant,1,3,7
+264,Cajun / Creole Restaurant,1,3,7
+3,Pizza Place,104,3,6
+2,Fast Food Restaurant,132,4,8
+8,Vietnamese Restaurant,68,4,8
+12,Restaurant,52,4,8
+14,American Restaurant,48,4,8
+15,Chinese Restaurant,47,4,7
+125,Brazilian Restaurant,4,4,7
+6,Pub,86,5,3
+7,Convenience Store,80,6,1
+10,Liquor Store,64,6,1
+19,Gym,33,6,1
+1,Coffee Shop,220,6,2
+4,Grocery Store,100,6,2
+28,Bank,26,8,0
+11,Park,58,10,1
+13,Hotel,49,10,1
+109,Airport Terminal,5,10,2
+5,Sandwich Place,87,8,4
+17,Café,38,8,3
+20,Bar,33,8,4
+21,Burger Joint,30,7,4
+22,Pet Store,30,7,3
+23,Breakfast Spot,30,6,4
+25,Gym / Fitness Center,28,8,4
+26,Golf Course,28,7,3
+30,Sporting Goods Shop,25,6,3
+31,Clothing Store,24,6,4
+32,Steakhouse,24,6,4
+33,Bakery,21,7,3
+35,Diner,20,6,2
+36,Shopping Mall,19,8,2
+38,Sports Bar,18,8,3
+39,Light Rail Station,18,6,3
+40,Discount Store,18,9,2
+42,Gastropub,17,8,4
+50,Ice Cream Shop,13,6,4
+51,Cosmetics Shop,13,8,3
+52,Gas Station,12,6,4
+53,Yoga Studio,12,8,2
+54,Athletics & Sports,12,8,3
+56,Hockey Arena,12,6,4
+57,Deli / Bodega,12,7,4
+58,Skating Rink,12,7,2
+59,Theater,11,8,4
+60,Toy / Game Store,11,8,2
+61,Wine Shop,11,6,3
+62,Smoothie Shop,10,6,2
+63,BBQ Joint,10,8,2
+64,Food & Drink Shop,10,6,4
+65,Rental Car Location,10,9,4
+66,Food Court,10,8,3
+67,Construction & Landscaping,9,9,2
+68,Salon / Barbershop,9,6,3
+69,Shoe Store,9,7,3
+70,Juice Bar,9,8,3
+71,Paper / Office Supplies Store,9,8,3
+73,Noodle House,8,8,2
+74,Farmers Market,8,6,3
+75,Trail,8,6,2
+77,Lake,8,6,3
+78,Thrift / Vintage Store,8,7,2
+79,Spa,8,8,2
+80,Tea Room,8,8,4
+83,Movie Theater,7,7,3
+84,Fried Chicken Joint,7,9,3
+85,Health & Beauty Service,7,6,2
+86,Hobby Shop,7,6,2
+87,Train Station,6,7,4
+88,Recreation Center,6,8,3
+89,Business Service,6,6,4
+90,Inn,6,7,4
+91,Dessert Shop,6,8,3
+92,Playground,6,8,3
+93,Lounge,6,6,2
+94,Gourmet Shop,6,7,4
+95,Music Store,6,8,4
+96,Dog Run,6,9,4
+97,Music Venue,6,9,3
+98,Dance Studio,6,7,2
+99,Miscellaneous Shop,6,6,4
+100,Wings Joint,5,6,2
+101,Scenic Lookout,5,6,2
+102,Snack Place,5,8,3
+103,Hardware Store,5,6,4
+104,History Museum,5,7,2
+105,Cocktail Bar,5,6,4
+106,Warehouse Store,5,7,2
+107,Market,5,9,3
+108,Bubble Tea Shop,5,7,3
+110,Comic Shop,5,6,3
+111,Museum,5,8,3
+112,Bowling Alley,5,6,2
+113,Gift Shop,5,7,3
+114,Concert Hall,5,6,2
+115,Video Game Store,5,9,2
+116,Motorcycle Shop,4,6,2
+117,Casino,4,6,3
+118,Automotive Shop,4,8,4
+119,Supermarket,4,9,2
+120,Wine Bar,4,8,4
+121,Airport Lounge,4,7,4
+122,Women's Store,4,6,3
+123,Smoke Shop,4,7,2
+124,Nightclub,4,7,3
+126,Performing Arts Venue,4,9,3
+127,Boutique,4,7,2
+129,Building,3,7,4
+130,Camera Store,3,8,4
+131,Bus Station,3,6,4
+133,Karaoke Bar,3,9,2
+134,Food Truck,3,9,2
+135,Forest,3,7,2
+137,Event Space,3,9,2
+138,Ski Area,3,9,4
+139,School,3,8,3
+140,Pool,3,9,2
+141,Men's Store,3,8,2
+142,Airport,3,8,2
+143,Home Service,3,8,3
+144,Big Box Store,3,8,3
+145,Intersection,3,8,2
+146,Stadium,3,9,4
+147,Soccer Field,3,6,4
+148,Library,2,8,2
+149,Lingerie Store,2,6,3
+150,Tanning Salon,2,7,3
+151,Massage Studio,2,7,4
+152,Indie Movie Theater,2,9,4
+153,Hostel,2,6,4
+154,Auto Garage,2,6,2
+155,Kids Store,2,7,4
+156,Food,2,8,4
+157,Hockey Rink,2,6,3
+158,Theme Park,2,8,2
+159,Auto Dealership,2,8,2
+160,Record Shop,2,9,3
+161,Frozen Yogurt Shop,2,6,3
+162,Mobile Phone Shop,2,6,2
+163,Supplement Shop,2,6,3
+164,Board Shop,2,8,4
+165,Airport Service,2,7,2
+166,Jewelry Store,2,6,2
+168,Beer Garden,2,7,3
+100,Laser Tag,1,6,2
+100,Ethiopian Restaurant,1,4,4
+100,Zoo,1,8,3
+100,Exhibit,1,8,3
+100,Stables,1,8,3
+100,Photography Lab,1,6,3
+100,Climbing Gym,1,8,3
